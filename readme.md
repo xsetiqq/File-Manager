@@ -16,7 +16,6 @@ A command-line file manager built using Node.js 22+, featuring file system navig
 
 ---
 
-## 🚀 Getting Started
 
 ### Requirements
 
@@ -30,6 +29,7 @@ A command-line file manager built using Node.js 22+, featuring file system navig
 
 ```bash
 git clone https://github.com/xsetiqq/File-Manager.git
-cd file-manager
+cd File-Manager
+git checkout develop
 npm run start
 ```
